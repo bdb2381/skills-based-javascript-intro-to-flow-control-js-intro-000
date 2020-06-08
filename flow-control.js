@@ -6,6 +6,7 @@ function basicTeenager(age) {
 return
 }
 
+/*
 function teenager(age) {
   if (age >= 13 && age <= 19)
     {
@@ -35,3 +36,4 @@ function ternaryTeenager(age) {
 function switchAge(age) {
 
 }
+*/
